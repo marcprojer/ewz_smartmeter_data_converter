@@ -16,3 +16,6 @@ ehthumbs.db
 # CSV / Numbers
 *.csv
 *.numbers
+
+git add .gitignore
+git commit -m "Ignore CSV and Numbers files"

@@ -13,6 +13,6 @@ ehthumbs.db
 *.swo
 *~
 
-# CSV
-/data/*.csv
-/export/*.csv
+# CSV / Numbers
+*.csv
+*.numbers

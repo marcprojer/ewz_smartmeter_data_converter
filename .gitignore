@@ -12,3 +12,7 @@ ehthumbs.db
 *.swp
 *.swo
 *~
+
+# CSV
+/data/*.csv
+/export/*.csv
